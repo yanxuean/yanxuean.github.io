@@ -1,9 +1,10 @@
 ---
 layout: post
 title: use git 
-categories: [cate1, cate2]
-description: some word here
+categories: [tools]
+description: use git
 keywords: git, github 
 ---
+
 
 

@@ -1,0 +1,42 @@
+标题
+#
+##
+###
+
+无序编号
+- * +都可以 
+
+有序编号
+1. Red
+2. Blue
+3. Green
+
+嵌套编号靠缩进
+
+字体
+*xx*   斜体
+**bo**     粗体
+__bo__     粗体
+~~strikethrough~~     删除线
+++underline++           下划线
+==highlight==            高亮
+
+隔离代码块：   ```[language name]
+三个反引号可以引用code
+
+表格：
+| name  | age | gender    | money  |
+|-------|:---:|-----------|-------:|     《--冒号在那边表示向那边对齐
+| rhio  | 384 | robot     | $3,000 |
+| haroo | .3  | bird      | $430   |
+| jedi   | ?   | undefined | $0     |
+
+链接
+[baidu](http://www.baidu.com)
+
+嵌入图像
+![Alt Text](E:\7_open\1_文档\kube\image.jpg "Title")     《--鼠标放在图像上，显示Title
+
+*xxx*   斜体
+**xxx**  粗体
+
